@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Faca
+ *
+ */
+module main {
+}
